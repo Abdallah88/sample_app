@@ -28,6 +28,7 @@ GEM
       activemodel (= 3.0.7)
       activesupport (= 3.0.7)
     activesupport (3.0.7)
+    annotate-models (1.0.4)
     arel (2.0.9)
     autotest-growl (0.2.9)
     autotest-rails-pure (4.1.2)
@@ -92,6 +93,7 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
+  annotate-models (= 1.0.4)
   autotest-growl
   autotest-rails-pure (= 4.1.2)
   autotest-standalone
