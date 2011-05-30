@@ -183,5 +183,13 @@ td.sidebar {
 
 signup_error_messages
 
+ul.users {
+  margin-top: 1em;
+}
+
+.users li {
+  list-style: none;
+}
+
 
 
